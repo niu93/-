@@ -1,5 +1,21 @@
 Package: com.liuf.zdytx
 Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/德发100圆角福利插件～完美版自定义头像.deb
+Size: 14256
+MD5sum: 20e2e4e953b42afe0b8825049f6c8553
+SHA1: e2091dea83ee419027340ca2e4d707c013f9e92f
+SHA256: 2cd809ba2841d939481bbc1e953648b506b9dfddd95408f8050a0cf2a19e9356
+Section: Tweaks
+Description: 微信好友群聊头像自定义图片 双击头像触发 i!
+Author: liuf <1602389262>
+Name: 微信头像自定义
+
+Package: com.liuf.zdytx
+Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: liuf <1602389262>
 Installed-Size: 200
@@ -14,6 +30,24 @@ Section: Tweaks
 Description: 微信好友群聊头像自定义图片 双击头像触发 i!
 Author: liuf <1602389262>
 Name: 微信头像自定义
+
+Package: com.niceios.morecolor
+Version: 1.0.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: MoreColor
+Installed-Size: 2168
+Depends: mobilesubstrate
+Filename: ./debs/自定义颜色.deb
+Size: 474902
+MD5sum: c3a339bd4bb3efe15315b1538bd4dada
+SHA1: b14521468f71e65240a11af4d6acd8f0d77e2472
+SHA256: 05e921a4d16b03663e48fb6d3528ed9174966142d0713d5c62defe194ef94a55
+Section: Tweaks
+Description: 全局系统颜色自定义
+Author: MoreColor
+Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
+Name: MoreColor
+Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
 
 Package: com.niceios.morecolor
 Version: 1.0.0.1-3
