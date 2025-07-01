@@ -1,3 +1,52 @@
+Package: com.baiy.dividingline
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: baiy <961666883>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/白衣-全局部分分割线隐藏-隐根.deb
+Size: 4028
+MD5sum: 476d4f02cef5d041546e24e120d129b4
+SHA1: db29bf1c62912479099a987d6797ada237dd6946
+SHA256: 15112f10c6e5923f3eab7899a1af3537aa0a52cd101b4463c106e10e9f7f0ae7
+Section: Tweaks
+Description: 隐藏系统以及微信的一些分割线
+Author: 白衣
+Name: 隐藏分割线
+
+Package: com.baiy.dividingline
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy <961666883>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/白衣-全局部分分割线隐藏-无根.deb
+Size: 2810
+MD5sum: 55856645ec49c3af72a4ae4a1d9200a4
+SHA1: aacb8d341ea9c2acc4fbed944991d9cc300ae5fd
+SHA256: 66cdf72a3fb64526f60935251ac51ced31528f3e03f087b373deeb2cd5c380ed
+Section: Tweaks
+Description: 隐藏系统以及微信的一些分割线
+Author: 白衣
+Name: 隐藏分割线
+
+Package: com.liuf.lddgifbg
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/灵动岛GIF最新 带小岛开关.deb
+Size: 15676
+MD5sum: d1d5e2552aae0f0a08cea1538d3b4a2b
+SHA1: d7625a356d4df4a9eb984f6760d28ca1f5f86ec8
+SHA256: a5c709f5257c94e160292ad095fbe7574f76ba1f0f48e1791f1451a5ca10cf9c
+Section: Tweaks
+Description: 灵动岛GIF背景 i!
+Author: liuf <1602389262>
+Name: 灵动岛GIF背景
+
 Package: com.liuf.zdytx
 Version: 0.0.1
 Architecture: iphoneos-arm64
