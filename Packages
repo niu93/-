@@ -1,5 +1,28 @@
 Package: com.Axs.SwitchPro
 Version: 1.0.1
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: juzi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: SwitchPro
+Replaces: SwitchPro
+Provides: SwitchPro
+Filename: ./debs/SwitchPro 微信开关美化_1.0.1_隐根.deb
+Size: 2379504
+MD5sum: b3ab4fa355ae6cd49869a675ed6e8dee
+SHA1: b8639315c648d97cabc589319dd487e392458dfc
+SHA256: 78ae3a9f7abd8748ba047cdcd11e0732ad5a7cf7fb0cb082f487926c2a0599bd
+Section: 微信插件
+Priority: optional
+Description: SwitchPro是一个微信插件，对功能开关进行美化的插件。安装插件需要导入文件才生效。目前提供了两款免费的，其余的找作者购买。
+Author: juzi
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: SwitchPro微信开关美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwitchPro/js.json
+
+Package: com.Axs.SwitchPro
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: juzi
