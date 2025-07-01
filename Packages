@@ -1,3 +1,25 @@
+Package: com.Axs.SwitchPro
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: juzi
+Depends: mobilesubstrate
+Conflicts: SwitchPro
+Replaces: SwitchPro
+Provides: SwitchPro
+Filename: ./debs/SwitchPro 微信开关美化_1.0.1_无根.deb
+Size: 859984
+MD5sum: 1e32bdb3e0b5d1da430c68f4c2dc8306
+SHA1: d7300fd28cfd3496f90bd617310687df21757745
+SHA256: 0911ae2763113ea6cc9e5a8824ac2dcd914c21fa1eeaa069482f45d796a2a937
+Section: 微信插件
+Priority: optional
+Description: SwitchPro是一个微信插件，对功能开关进行美化的插件。安装插件需要导入文件才生效。目前提供了两款免费的，其余的找作者购买。
+Author: juzi
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: SwitchPro微信开关美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwitchPro/js.json
+
 Package: com.baiy.dividingline
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -42,6 +64,23 @@ Size: 15676
 MD5sum: d1d5e2552aae0f0a08cea1538d3b4a2b
 SHA1: d7625a356d4df4a9eb984f6760d28ca1f5f86ec8
 SHA256: a5c709f5257c94e160292ad095fbe7574f76ba1f0f48e1791f1451a5ca10cf9c
+Section: Tweaks
+Description: 灵动岛GIF背景 i!
+Author: liuf <1602389262>
+Name: 灵动岛GIF背景
+
+Package: com.liuf.lddgifbg
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/灵动岛GIF最新 带小岛开关 隐根.deb
+Size: 20220
+MD5sum: e86ae13510a5ac4a2f93c4ac27fcf0b1
+SHA1: 985a0d3835fb37d3989b261b5101536e8359a4a9
+SHA256: 6b99ec4ac7a1284d3c290cf1bb8e2d496528ff9155e4410c1559441dd0bbe268
 Section: Tweaks
 Description: 灵动岛GIF背景 i!
 Author: liuf <1602389262>
