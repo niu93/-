@@ -76,6 +76,38 @@ Description: 隐藏系统以及微信的一些分割线
 Author: 白衣
 Name: 隐藏分割线
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.1.3
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 1840
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.1.3_iphoneos-arm64e.deb
+Size: 426984
+MD5sum: a9d8b9e6611515c911d8bfe5eff5e1ea
+SHA1: 05c0c5eb5c5ffc47eb0fba3408210edcc4590b0a
+SHA256: 35468e1088d016b414737f1f24218715e31cd447f48206f75383bff408352d9c
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 1908
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.1.3_iphoneos-arm64.deb
+Size: 457288
+MD5sum: 1030306ed16371204b528e2649eb17be
+SHA1: 93ea1f75bb5600835653ba643721cb67ca369050
+SHA256: 602724839024c8176a177b088671c62ce41fc208c8db7753abe47eb2541df3e8
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
 Package: com.liuf.lddgifbg
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -108,6 +140,72 @@ Section: Tweaks
 Description: 灵动岛GIF背景 i!
 Author: liuf <1602389262>
 Name: 灵动岛GIF背景
+
+Package: com.liuf.musicfg
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.musicfg_1.0.0_iphoneos-arm64.deb
+Size: 14730
+MD5sum: a0167ab268f1dfe7c4878a777e69b657
+SHA1: 0345214d8cc171c147dea9f1a908729e1bff83fc
+SHA256: 0c94374cb6ec18247ceda3ad02eeac4bec06c958623cee3f276be7f1a2cdc7dd
+Section: Tweaks
+Description: 夜辰私人定制 i!
+Author: liuf <1602389262>
+Name: 音乐播放器发光效果
+
+Package: com.liuf.musicfg
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.musicfg_1.0.0_iphoneos-arm64e-13.deb
+Size: 19342
+MD5sum: e051d42bbf0d23fd4980de41662c624c
+SHA1: d0058b77aa534a1b2f7cb9fb91ca3a5ec46ef364
+SHA256: 8629fd4b6b22ba49a5f660994c2252ae254efb5271295285f6899f0fed4b4f74
+Section: Tweaks
+Description: 夜辰私人定制 i!
+Author: liuf <1602389262>
+Name: 音乐播放器发光效果
+
+Package: com.liuf.plugins
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.plugins_1.0.0_iphoneos-arm64.deb
+Size: 25594
+MD5sum: dae14eee3d82c8a5677f2f19ff153ffa
+SHA1: bd09dfc371589eb3881324cbe81551c00f965540
+SHA256: 398dce47b5259cf2c557c4b3a2e5c82d00622b55ee065ab91a18b6cdef6e1405
+Section: Tweaks
+Description: 插件管理内插件自定义插件名及版本号 强迫症福音 i!
+Author: liuf <1602389262>
+Name: 德发88圆角福利插件
+
+Package: com.liuf.plugins
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: liuf <1602389262>
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.plugins_1.0.0_iphoneos-arm64e-4.deb
+Size: 34778
+MD5sum: d91def3ee10a83d676a41de116cb6f2f
+SHA1: 7d5f4231721e264e2da466083b5327eac4275a6c
+SHA256: b3d9d829e4acbac9d0735969d020122cf879c95f26071ec2568784a442006619
+Section: Tweaks
+Description: 插件管理内插件自定义插件名及版本号 强迫症福音 i!
+Author: liuf <1602389262>
+Name: 德发88圆角福利插件
 
 Package: com.liuf.zdytx
 Version: 0.0.1
